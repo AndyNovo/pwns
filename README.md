@@ -1,6 +1,6 @@
 # PWN Assignments
 
-These 18 problems are re-mixes of a beautiful set of introductory vulnerabilities from the 2020 Sunshine CTF.  I have the original binaries at: https://github.com/AndyNovo/speedruns
+These 16 problems are re-mixes of a beautiful set of introductory vulnerabilities from the 2020 Sunshine CTF.  I have the original binaries at: https://github.com/AndyNovo/speedruns
  
 You can find write-ups of those problems when you get stuck, but these will have their own attributes that are adjusted for you.
 
